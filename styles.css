@@ -1,0 +1,23 @@
+html{background-color: rgb(192, 197, 201);
+    font-family: "forma-djr-deck", sans-serif;
+    font-weight: 800;
+
+}
+.site-header {
+    background-color:rgb(107, 107, 163);
+    color:antiquewhite;
+      font-family: "JetBrains Mono", monospace;
+      font-size: 60px;
+      line-height: 1.2;
+      font-weight: 100;
+      text-align: center;
+}
+
+.callout{
+    color:rgb(109, 0, 139);
+}
+
+.address{
+    text-align: right;
+    font-weight: 500;
+}
